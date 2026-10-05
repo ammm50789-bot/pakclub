@@ -1,0 +1,14 @@
+{
+  "matching_urls": ["https://popb6c1y.com/WinGo/WinGo_30S"],
+  "deposit_url": "https://popb6c1y.com/wallet/recharge",
+  "login_url": "https://popzar44.com/login",
+  "register_url": "https://popzar44.com/register?inviteCode=WP5LL9N&from=web",
+  "telegram_url": "https://t.me",
+  "home_url": "https://popzar44.com/",
+  "minimum_deposit": 300,
+  "allowed_numbers": ["30091577918","00001256903"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/bigsmall.mp3",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/deposit300.mp3"
+}
